@@ -1,4 +1,4 @@
-# ds_project
+# Applying Data Structures to manipulate cleansed UN Data
 
 Overview:
 This project is related to Data Stuctures. It uses data structures to perform operations get, sort, remove, and check duplications from excel (.csv) file.
@@ -19,3 +19,4 @@ To run project, you should have Eclipse installed which is IDE for java programs
   - Download project folder from github
   - Open "Driver.java" file.
   - Press Ctrl+F11 to run the project
+  - Done.
